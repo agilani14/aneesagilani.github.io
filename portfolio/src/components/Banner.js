@@ -47,7 +47,7 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <span className="tagline"> Welcome to my Portfolio</span>
             <h1> {"Hi, I'm Aneesa,"}<span className="wrap"> {text} </span> </h1>
-            <p> I am a front-end software devloper looking to expand my knowledge on coding.</p>
+            <p> Software engineering professional, with a results-oriented and ambitious mindset, seamlessly integrating punctuality, resilience, and ambition within collaborative, team-oriented environments to create technological solutions. I navigate challenges with unwavering determination, developed through career experiences in the healthcare and education sectors.</p>
             <button onClick={() => console.log('connect')}>Let's connect!<ArrowRightCircle size = {25} /> </button>
           </Col>
           <Col xs={12} md={6} xl={5}>
