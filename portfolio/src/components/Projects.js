@@ -9,19 +9,19 @@ export const Projects = () => {
   const projects = [
     {
       title: "Trivia",
-      description: "A short, but fun-filled trivia game created using HTML, CSS, and some JavaScript. This was one of the first projects built during the bootcamp",
+      description: "A short, but fun-filled trivia game created using HTML, CSS, and some JavaScript. This trivia game allows you to answer questions where it marks your answer correct or not, while also scoring you. Built during the first few weeks of the bootcamp, this was one of the first solo projects I had created.",
       imgUrl: projImg1,
       link: "https://basictriviagame.netlify.app", // Updated link
     },
     {
       title: "WineAboutIt",
-      description: "An e-commerce website dedicated to wine lovers created by me, along with three other teammates. This was created using Tailwinds CSS, React/Redux, Axios, Node.js",
+      description: "Created by me and a team of 3 other developers, we incorporated Tailwinds CSS, React/Redux, Axios, Node.js, MongoDB, and express into this website. This is an e-commerce website designed for wine lovers to shop around for their favorite wines featuring a carousel on the home page, and allowing users to create their own account, filter through the types of wine, filter alphabetically, or by price. It also allows users to add wines to their favorites cart, as well as add it to their shopping cart and checkout. Once orders have been placed, order history details are made available to the user. ",
       imgUrl: projImg2,
       link: "https://wineaboutit.netlify.app",
     },
     {
       title: "PetPals",
-      description: "This website was created during the final week of the bootcamp in a group of 7 people. It is an adoption website where you can theoretically search/filter through for any cat/dog that you might want. Created using Django, Python, Postgresql, React, and CSS",
+      description: "Created during the final week of the bootcamp in a group of 7 people, we created a social media adoption platform where you can theoretically search/filter through for any cat/dog that you might want to adopt. Created using Django, Python, Postgresql, React, and CSS, this website is designed to connect with other animal lovers where you can create an account, favorite the pet you want and add it to a favorites section, comment on different pictures of pets, as well as view your comment history and edit it, along with many other functionalities. ",
       imgUrl: projImg3,
       link: "https://sei-petpals.netlify.app",
     },
