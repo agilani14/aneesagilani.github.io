@@ -47,7 +47,7 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <span className="tagline"> Welcome to my Portfolio</span>
             <h1> {"Hi, I'm Aneesa,"}<span className="wrap"> {text} </span> </h1>
-            <p> Software engineering professional, with a results-oriented and ambitious mindset, seamlessly integrating punctuality, resilience, and ambition within collaborative, team-oriented environments to create technological solutions. I navigate challenges with unwavering determination, developed through career experiences in the healthcare and education sectors.</p>
+            <p> Recent graduate of the General Assembly Software Engineering immersive course looking for a role in a front-end position, with a results-oriented and ambitious mindset, seamlessly integrating punctuality, resilience, and ambition within collaborative, team-oriented environments to create technological solutions. I love to be a helping hand to those around me and can't wait to expand on my knowledge in this field. Feel free to reach out to me on LinkedIn!</p>
             <button onClick={() => console.log('connect')}>Let's connect!<ArrowRightCircle size = {25} /> </button>
           </Col>
           <Col xs={12} md={6} xl={5}>
