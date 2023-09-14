@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import colorSharp from "../components/img/color-sharp.png";
+// import colorSharp from "../components/img/color-sharp.png";
 
 
 
@@ -29,7 +29,7 @@ import colorSharp from "../components/img/color-sharp.png";
           </Col>
         </Row>
       </Container>
-      <img className="background-image-left" src={colorSharp} />
+      {/* <img className="background-image-left" src={colorSharp} /> */}
     </section>
   )
 }
