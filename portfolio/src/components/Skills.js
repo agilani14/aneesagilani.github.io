@@ -4,9 +4,10 @@ import { Container, Row, Col } from "react-bootstrap";
 
 
 
-  export const Skills = () => {
+export const Skills = () => {
+    // eslint-disable-next-line
     const [resumeFile, setResumeFile] = useState(null);
-  
+    // eslint-disable-next-line
     const handleFileChange = (e) => {
       const file = e.target.files[0];
       setResumeFile(file);
