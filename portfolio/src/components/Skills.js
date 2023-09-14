@@ -22,7 +22,7 @@ import colorSharp from "../components/img/color-sharp.png";
                 Resume
               </h2>
               <p> Listed below is my resume which will tell you a little bit more about me! </p>
-              <a href="file://Users/aneesagilani/Desktop/Resume.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.dropbox.com/scl/fi/wfyegqls3hlpbyzhst3hu/_Resume-1.pdf?rlkey=hfqi4osmfbwcyo9aswt6qmyr7&raw=1" target="_blank" rel="noopener noreferrer">
                   View Resume
               </a>
               </div>

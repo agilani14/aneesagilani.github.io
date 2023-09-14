@@ -13,10 +13,10 @@ export const Footer = () => {
             {/* <img src={logo} alt="Logo" /> */}
           </Col>
           <Col sm={6} className='text-center text-sm-end'>
-            <div className='social-icon'>
-              <a href="https://github.com/agilani14"><img src={navIcon1} /> </a>
-              <a href="https://www.linkedin.com/in/aneesa-gilani/"><img src={navIcon2} /> </a>
-            </div>
+            {/* <div className='social-icon'> */}
+              {/* <a href="https://github.com/agilani14"><img src={navIcon1} /> </a> */}
+              {/* <a href="https://www.linkedin.com/in/aneesa-gilani/"><img src={navIcon2} /> </a> */}
+            {/* </div> */}
             <p>CopyRight 2023. All Right Reserved </p>
           </Col>
         </Row>
